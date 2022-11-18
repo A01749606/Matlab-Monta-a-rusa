@@ -1,3 +1,4 @@
+
 clc, clear
 % Sacar velocidad negativa
 % Que se dejen de ver los puntos anteriores
